@@ -5,6 +5,7 @@ public class Class1 {
 	public static void main(String[] args) {
 		
 		System.out.println("My first git project");
+		System.out.println("Need to commit");
 	}
 
 }
